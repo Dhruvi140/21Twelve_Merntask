@@ -1,0 +1,189 @@
+[{
+  "_id": {
+    "$oid": "669046c2f5dac9350b7161fc"
+  },
+  "productname": "iphone",
+  "description": "t3ty4ur5i",
+  "price": 999999,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669046edf5dac9350b7161ff"
+  },
+  "productname": "noki",
+  "description": "t",
+  "price": 999,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669047af4a48cd5f622f4d4a"
+  },
+  "productname": "iphone",
+  "description": "t3ty4ur5i",
+  "price": 999999,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669047ed4a48cd5f622f4d4e"
+  },
+  "productname": "iphone",
+  "description": "t3ty4ur5i",
+  "price": 999999,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690486f3814cdbef4dd2daa"
+  },
+  "productname": "iphone",
+  "description": "t3ty4ur5i",
+  "price": 999999,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669048cfb49541b2c6b8e573"
+  },
+  "productname": "iphone",
+  "description": "t3ty4ur5i",
+  "price": 999999,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669057ea230e68feacd67304"
+  },
+  "productname": "werty",
+  "description": "sdf",
+  "price": 2344,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66905ace5f850e408bdc346f"
+  },
+  "productname": "sdfg",
+  "description": "fxvv",
+  "price": 23456,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66905af15f850e408bdc3478"
+  },
+  "productname": "pen",
+  "description": "dfgdh",
+  "price": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66905af25f850e408bdc347b"
+  },
+  "productname": "pen",
+  "description": "dfgdh",
+  "price": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66905af35f850e408bdc347e"
+  },
+  "productname": "pen",
+  "description": "dfgdh",
+  "price": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66905afc5f850e408bdc3481"
+  },
+  "productname": "pen",
+  "description": "dfgdh",
+  "price": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66905b4c5f850e408bdc348d"
+  },
+  "productname": "pen",
+  "description": "dfghj",
+  "price": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66905b5c5f850e408bdc3490"
+  },
+  "productname": "pen",
+  "description": "dfghj",
+  "price": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66905c025f850e408bdc349d"
+  },
+  "productname": "pen",
+  "description": "fg",
+  "price": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669060645f850e408bdc34e1"
+  },
+  "productname": "keyboard",
+  "description": "lenevo",
+  "price": 4,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669065145f850e408bdc3511"
+  },
+  "productname": "book",
+  "description": "classmate",
+  "price": 22,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690caf1dee2fe5767517c5e"
+  },
+  "productname": "pencil box",
+  "description": "Apsara,Doms any company's pencil",
+  "price": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690d4f23f209e3d9879f77b"
+  },
+  "productname": "pencil",
+  "description": "doms pencil",
+  "price": 27,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690dc0ba03caeced251a509"
+  },
+  "productname": "chana daal",
+  "description": "angur chana dal",
+  "price": 120,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690dc3ea03caeced251a50d"
+  },
+  "productname": "Asshirvad Aata",
+  "description": "Ashirvad",
+  "price": 500,
+  "__v": 0
+}]

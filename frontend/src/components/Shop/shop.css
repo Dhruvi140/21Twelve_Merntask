@@ -1,0 +1,17 @@
+.card{
+    margin-bottom: 50px;
+    flex-direction: column;
+    top: 80px;
+}
+
+.create-button {
+    position: fixed; /* Fixed positioning */
+    top: 110px; /* Adjust this value to suit your layout */
+    right: 10px; /* Adjust this value to suit your layout */
+    z-index: 1000; /* Ensures it's above other content */
+  }
+.icon-spacing{
+    margin-right: 8px;
+}
+  
+  

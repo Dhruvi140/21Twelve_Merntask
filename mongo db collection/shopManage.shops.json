@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "66905bee5f850e408bdc3499"
+  },
+  "name": "Ram Grocery update",
+  "address": "123 Main St",
+  "owner": "Mohan Pandey",
+  "products": [
+    {
+      "$oid": "66905c025f850e408bdc349d"
+    },
+    {
+      "$oid": "669065145f850e408bdc3511"
+    },
+    {
+      "$oid": "6690d4f23f209e3d9879f77b"
+    }
+  ],
+  "phone": 1234567890,
+  "GSTNo": "123",
+  "createdAt": {
+    "$date": "2024-07-11T22:25:50.209Z"
+  },
+  "__v": 3
+},
+{
+  "_id": {
+    "$oid": "66905e215f850e408bdc34b0"
+  },
+  "name": "Apple Pvt LTD",
+  "address": "Ahmedabad",
+  "owner": "Dhruvi Pathak",
+  "products": [],
+  "phone": 1234567890,
+  "GSTNo": "123dff",
+  "createdAt": {
+    "$date": "2024-07-11T22:35:13.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690604d5f850e408bdc34d7"
+  },
+  "name": "Shubh computers",
+  "address": "available All computer ,camara sevices",
+  "owner": "shubh Shah",
+  "products": [
+    {
+      "$oid": "669060645f850e408bdc34e1"
+    }
+  ],
+  "phone": {
+    "$numberLong": "6351506262"
+  },
+  "GSTNo": "234567",
+  "createdAt": {
+    "$date": "2024-07-11T22:44:29.971Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6690ca98dee2fe5767517c59"
+  },
+  "name": "Shreeji PVT.ltd",
+  "address": "Agmedabd",
+  "owner": "John Doe",
+  "products": [
+    {
+      "$oid": "6690caf1dee2fe5767517c5e"
+    }
+  ],
+  "phone": 1234567890,
+  "GSTNo": "AVF4567890123",
+  "createdAt": {
+    "$date": "2024-07-12T06:18:00.065Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6690d6633f209e3d9879f792"
+  },
+  "name": "Arvind textile",
+  "address": "Agmedabd",
+  "owner": "Arvind patel",
+  "products": [],
+  "phone": 1234567890,
+  "GSTNo": "AVF4567890123",
+  "createdAt": {
+    "$date": "2024-07-12T07:08:19.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6690da45a03caeced251a4cb"
+  },
+  "name": "Dmart",
+  "address": "asdfghj",
+  "owner": "rajesh shah",
+  "products": [
+    {
+      "$oid": "6690dc0ba03caeced251a509"
+    },
+    {
+      "$oid": "6690dc3ea03caeced251a50d"
+    }
+  ],
+  "phone": 1234567899,
+  "GSTNo": "1234567",
+  "createdAt": {
+    "$date": "2024-07-12T07:24:53.821Z"
+  },
+  "__v": 2
+}]

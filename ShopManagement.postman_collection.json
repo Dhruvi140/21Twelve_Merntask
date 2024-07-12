@@ -1,0 +1,172 @@
+{
+	"info": {
+		"_postman_id": "21a87aa2-9b86-474a-bb05-ded51244d4b5",
+		"name": "ShopManagement",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "27548987",
+		"_collection_link": "https://red-comet-132186.postman.co/workspace/My-Workspace~3b2dcee3-2a5c-4a5b-8b52-f3099ed6e9ea/collection/27548987-21a87aa2-9b86-474a-bb05-ded51244d4b5?action=share&source=collection_link&creator=27548987"
+	},
+	"item": [
+		{
+			"name": "SignUp User",
+			"item": [
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Login",
+			"item": [
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Shop",
+			"item": [
+				{
+					"name": "AllShop",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "createShop",
+					"request": {
+						"method": "POST",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "updateShop",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"_id\": \"6109e3f7b9d07a187c859483\",\r\n    \"name\": \"Ram Grocery\",\r\n    \"owner\": \"Mohan Pandey\",\r\n   \r\n    \"phone\": \"1234567890\",\r\n    \"address\": \"123 Main St\",\r\n    \"GSTNo\": \"123\"\r\n  }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/shop/66905bee5f850e408bdc3499",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"shop",
+								"66905bee5f850e408bdc3499"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "AddProductinShop",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"productname\":\"iphone\",\r\n    \"price\":\"999999\",\r\n    \"description\":\"t3ty4ur5i\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/shop/668fcbeea2c0780a0faf046f/products",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"shop",
+								"668fcbeea2c0780a0faf046f",
+								"products"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "ShowAllProductbyShop",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5000/api/668fcbeea2c0780a0faf046f/products",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"668fcbeea2c0780a0faf046f",
+								"products"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "updateProduct",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"productname\":\"nokia\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:5000/api/shop/668fcbeea2c0780a0faf046f/products/669046edf5dac9350b7161ff",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"shop",
+								"668fcbeea2c0780a0faf046f",
+								"products",
+								"669046edf5dac9350b7161ff"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

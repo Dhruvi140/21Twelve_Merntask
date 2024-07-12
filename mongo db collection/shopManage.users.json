@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "668f887733b7e3d534394126"
+  },
+  "fname": "zsdfg",
+  "mobile": 1234567,
+  "email": "dfg@gmail.com",
+  "pwd": "$2a$12$iG7gKg.TI7byUpzMS5i1KugGPdpb/NNZ2HPzctljle97kRKLjCwhW",
+  "cpwd": "123456",
+  "createdAt": {
+    "$date": "2024-07-11T07:23:35.171Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T07:23:35.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f986033b7e3d534394130"
+  },
+  "fname": "shubh",
+  "mobile": 213456788,
+  "email": "shubh@gmail.com",
+  "pwd": "$2a$12$9GdKYuhZge5723qESQxdxOCKL8LqG9xZCiVNGiSZ.knEosfl47AA.",
+  "cpwd": "1234567",
+  "createdAt": {
+    "$date": "2024-07-11T08:31:28.497Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T08:31:28.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668fa27fc3ff9ae3895d400a"
+  },
+  "fname": "Dipak Pathak",
+  "mobile": {
+    "$numberLong": "6351506262"
+  },
+  "email": "dhruvipathak403@gmail.com",
+  "pwd": "$2a$12$r40hfHipWPYogkia7j..heJ9vxNmFzSAZHE35frOh4Bbbl5U5a/bq",
+  "cpwd": "12345",
+  "createdAt": {
+    "$date": "2024-07-11T09:14:39.156Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T09:14:39.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668fa2adc3ff9ae3895d400c"
+  },
+  "fname": "sss",
+  "mobile": 123456789,
+  "email": "sdfgh",
+  "pwd": "$2a$12$qiRU.jBpQWGda5AkTA2ZUOX3WIQm0jXmceZ1/TEpfuZZYNBSP0F3O",
+  "cpwd": "12345678",
+  "createdAt": {
+    "$date": "2024-07-11T09:15:25.269Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T09:15:25.269Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668fee6d750130835ca2037e"
+  },
+  "fname": "mahi",
+  "mobile": 234567777,
+  "email": "mahi@gmail.com",
+  "pwd": "$2a$12$Z/RMCtDQlDHyeIftbQcJluoTInLUwSrDi7kB8wOzzz/UHFcU.5sum",
+  "cpwd": "123",
+  "createdAt": {
+    "$date": "2024-07-11T14:38:37.888Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T14:38:37.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66902f0ede7da558f9f560e5"
+  },
+  "fname": "werty",
+  "mobile": 12345678,
+  "email": "sdfghj",
+  "pwd": "$2a$12$1gKD7ZutJHXMf9r8UkE29upCiGruEC/E2MPWIiazu9HbnJBAD.RG.",
+  "cpwd": "1234",
+  "createdAt": {
+    "$date": "2024-07-11T19:14:22.873Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T19:14:22.873Z"
+  },
+  "__v": 0
+}]
